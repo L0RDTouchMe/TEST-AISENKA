@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="image">
+    <file>style/baclground.png</file>
+    <file>style/button.png</file>
+    <file>style/last.png</file>
+  </qresource>
+</RCC>
